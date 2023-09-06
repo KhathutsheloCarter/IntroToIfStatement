@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntroToIfStatement", "IntroToIfStatement\IntroToIfStatement.vbproj", "{E7159657-2C17-4EDD-AE62-BE04B6026D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7159657-2C17-4EDD-AE62-BE04B6026D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7159657-2C17-4EDD-AE62-BE04B6026D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7159657-2C17-4EDD-AE62-BE04B6026D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7159657-2C17-4EDD-AE62-BE04B6026D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE3E37E1-B621-4347-B09C-BFF68C1E9EEB}
+	EndGlobalSection
+EndGlobal
